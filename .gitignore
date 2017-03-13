@@ -1,0 +1,4 @@
+*.xcf
+compo-version.lxml
+*.wav
+obj/compo-versionConfig.old
